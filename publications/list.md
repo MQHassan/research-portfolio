@@ -1,8 +1,9 @@
 # Publications — Dr M Quamrul Hassan
 
-**Total peer-reviewed publications: 25**  
-MBBS, FCPS (Paediatrics) | Senior Consultant Paediatrician & Neonatologist  
-Evercare Hospital Dhaka, Bangladesh
+## MBBS, FCPS (Paediatrics) | Senior Consultant Paediatrician & Neonatologist
+### Evercare Hospital Dhaka, Bangladesh
+
+**Total peer-reviewed publications: 25**
 
 Research profiles:
 - [Google Scholar](https://scholar.google.com/citations?user=m8C1fSQAAAAJ)
