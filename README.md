@@ -1,64 +1,50 @@
-\# Research Portfolio — Dr M Quamrul Hassan
+# Research Portfolio — Dr M Quamrul Hassan
 
+## MBBS, FCPS (Paediatrics)
 
-
-\*\*MBBS, FCPS (Paediatrics)\*\*  
-
-Senior Consultant — Paediatrics \& Neonatology  
-
+**Senior Consultant -- Paediatrics & Neonatology**  
 Evercare Hospital Dhaka, Bangladesh  
-
 Practising since 1992
 
+---
 
+## Research Profile Links
 
-\## Research Profile Links
+- [ResearchGate](https://www.researchgate.net/profile/M-Quamrul-Hassan-2)
+- [Google Scholar](https://scholar.google.com/citations?user=m8C1fSQAAAAJ)
 
-\- \[ResearchGate](https://www.researchgate.net/profile/M-Quamrul-Hassan-2?ev=hdr\_xprfwww.researchgate.net)
+---
 
-\- \[Google Scholar](https://scholar.google.com/citations?hl=en\&pli=1\&user=m8C1fSQAAAAJ)
+## Research Interests
 
-\## Research Interests
+- Infections in children
+- Immune and inflammatory disorders
+- Adenoids and ENT conditions in paediatrics
+- Paediatric nutrition
+- Paediatric intensive care
+- Neonatal outcomes
 
-\- Infections in children
+---
 
-\- Immune and inflammatory disorders
+## Publications
 
-\- Adenoids and ENT conditions in paediatrics
+32 peer-reviewed publications — [see full publication list](publications/list.md)
 
-\- Paediatric nutrition
+---
 
-\- Paediatric intensive care
+## Current and Future Research
 
-\- Neonatal outcomes
+- Hand Hygiene Improvement Protocol -- in development
 
+---
 
+## Collaborations
 
-\## Publications
+- CWCH (Centre for Women and Child Health)
+- DSH (Dhaka Shishu Hospital)
 
-32 peer-reviewed publications — see publications list below
+---
 
+## Website
 
-
-\## Current \& Future Research
-
-\- Hand Hygiene Improvement Protocol — in development
-
-
-
-\## Collaborations
-
-\- CWCH (Centre for Women and Child Health)
-
-\- DSH (Dhaka Shishu Hospital)
-
-
-
-\## Website
-
-\[mqhassan.github.io](https://mqhassan.github.io)
-
-&#x20;
-
-&#x20;
-
+[mqhassan.github.io](https://mqhassan.github.io)
